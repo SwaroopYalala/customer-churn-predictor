@@ -9,3 +9,23 @@
 - Jupyter Notebooks
 
 ## 📁 Project Structure
+customer-churn-predictor/
+├── data/
+│ └── customer_data.csv
+├── notebooks/
+│ └── churn_model_dev.ipynb
+├── model/
+│ └── churn_model.pkl
+└── README.md
+## 🚀 How to Run
+1. Clone the repo
+2. Install dependencies (`pip install -r requirements.txt`)
+3. Run the notebook
+4. Use `model/churn_model.pkl` for predictions
+
+## 📸 Screenshots
+*(Add before/after plots, ROC curve, confusion matrix here)*
+
+## 📚 References
+- [Kaggle Dataset](https://www.kaggle.com/blastchar/telecom-customer-churn)
+- [Scikit-learn Docs](https://scikit-learn.org/)
